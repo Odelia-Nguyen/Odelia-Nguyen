@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the seattle solar car team
+- 🌱 I’m currently learning C++
+- ⚡ Fun fact I'm planning to get my Private Pilot License at 17
 <!--
 **Odelia-Nguyen/Odelia-Nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
